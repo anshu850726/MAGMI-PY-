@@ -1,0 +1,2 @@
+# MAGMI-PY-
+CLASS PY
